@@ -1,6 +1,10 @@
 This is an alternative set of Freecad files for the T41 Software Designed Transceiver Project which were modified by Greg KF5N.
 
-This case design is a bit smaller than the original.  It should fit on stock Ender 3 series 3D printers.
+It is strongly recommended to view the files in Freecad before beginning a print.  There is a large variation in how
+T41 transceivers are constructed.  Each builder has their own ideas on how to assemble the radio.
+
+So these files are meant as a "starting point" for your own custom design.  What you see is what you get, so please
+feel free to make changes to accommodate your own preferences for your version of the T41 radio.
 
   This software is made available under the GNU GPL v3 license agreement. If commercial use of this
   software is planned, we would appreciate it if the interested parties get written approval
